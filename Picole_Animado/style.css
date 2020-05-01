@@ -34,11 +34,11 @@ body {
         /*o valor de 'deg' é dado em graus*/
         315deg,
         /*divisao das cores inicio e fim*/
-        blue 0%, blue 10%,
-        yellow 10%, yellow 20%,
-        purple  20%, purple  30%,
-        red 30%, red 40%,
-        green 40%, green 50%
+        rgb(255, 42, 173) 0%,rgb(255, 42, 173) 10%,
+        rgb(250, 15, 15) 10%, rgb(250, 15, 15) 20%,
+        rgb(255, 255, 25) 20%, rgb(255, 255, 25) 30%,
+        rgb(46, 243, 46) 30%, rgb(46, 243, 46) 40%,
+        rgb(80, 230, 250) 40%, rgb(80, 230, 250) 50%
     );
 
     /*o patrao é 100% 100%
